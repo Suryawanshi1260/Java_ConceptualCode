@@ -35,7 +35,7 @@ class Derived extends Base
     }
 }
 
-class ThisSuper
+class thiskeyword
 {
     public static void main(String A[])
     {
